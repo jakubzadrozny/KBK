@@ -1,0 +1,68 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Jakub_Zadrozny.aux
+The style file: plain.bst
+Database file #1: kbk.bib
+Warning--entry type for "schneier" isn't style-file defined
+--line 11 of file kbk.bib
+Warning--entry type for "bismark" isn't style-file defined
+--line 20 of file kbk.bib
+Warning--entry type for "winvote" isn't style-file defined
+--line 45 of file kbk.bib
+Warning--entry type for "estonia-wiki" isn't style-file defined
+--line 54 of file kbk.bib
+Warning--entry type for "why-hard" isn't style-file defined
+--line 60 of file kbk.bib
+Warning--entry type for "trojan" isn't style-file defined
+--line 69 of file kbk.bib
+Warning--entry type for "email-fax" isn't style-file defined
+--line 116 of file kbk.bib
+Warning--entry type for "equipment" isn't style-file defined
+--line 123 of file kbk.bib
+Warning--entry type for "history" isn't style-file defined
+--line 131 of file kbk.bib
+Warning--to sort, need author or key in estonia-wiki
+Warning--empty booktitle in google
+Warning--empty journal in california
+You've used 14 entries,
+            2118 wiz_defined-function locations,
+            547 strings with 5113 characters,
+and the built_in function-call counts, 3063 in all, are:
+= -- 267
+> -- 140
+< -- 0
++ -- 59
+- -- 44
+* -- 142
+:= -- 527
+add.period$ -- 32
+call.type$ -- 14
+change.case$ -- 67
+chr.to.int$ -- 0
+cite$ -- 17
+duplicate$ -- 110
+empty$ -- 288
+format.name$ -- 44
+if$ -- 636
+int.to.chr$ -- 0
+int.to.str$ -- 14
+missing$ -- 2
+newline$ -- 63
+num.names$ -- 26
+pop$ -- 108
+preamble$ -- 1
+purify$ -- 50
+quote$ -- 0
+skip$ -- 112
+stack$ -- 0
+substring$ -- 71
+swap$ -- 10
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 56
+warning$ -- 3
+while$ -- 26
+width$ -- 16
+write$ -- 118
+(There were 12 warnings)

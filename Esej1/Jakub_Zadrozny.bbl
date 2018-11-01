@@ -1,0 +1,66 @@
+\begin{thebibliography}{10}
+
+\bibitem{estonia-wiki}
+Electronic voting in estonia.
+
+\bibitem{why-hard}
+Hagai Bar-El.
+\newblock Why secure e-voting is so hard to get, July 2015.
+
+\bibitem{history}
+Mary Bellis.
+\newblock The history of voting machines.
+
+\bibitem{bismark}
+David Bismark.
+\newblock Verifiable electronic voting.
+
+\bibitem{trojan}
+EDRi.
+\newblock Osce findings on estonian e-voting.
+
+\bibitem{winvote}
+Jeremy Epstein.
+\newblock Decertifying the worst voting machine in the us, April 2015.
+
+\bibitem{accuvote-ts}
+Ariel~J. Feldman, J.~Alex Halderman, and Edward~W. Felten.
+\newblock Security analysis of the diebold accuvote-ts voting machine.
+\newblock Technical report, Princeton University, September 2006.
+
+\bibitem{nedap}
+Rop Gonggrijp and Willem-Jan Hengeveld.
+\newblock Nedap/groenendaal es3b voting computer.
+\newblock Technical report, Stichting "Wij vertrouwen stemcomputers niet",
+  October 2006.
+
+\bibitem{email-fax}
+David Jefferson.
+\newblock What about email and fax?
+
+\bibitem{google}
+David Jefferson.
+\newblock Electronic and internet voting.
+\newblock Google, January 2011.
+
+\bibitem{equipment}
+Douglas Jones.
+\newblock Voting equipment in the us.
+
+\bibitem{schneier}
+Bruce Schneier.
+\newblock What's wrong with electronic voting machines?, November 2004.
+
+\bibitem{california}
+Barbara Simons.
+\newblock California: The top to bottom review.
+\newblock August 2007.
+
+\bibitem{estonia}
+Drew Springall, Travis Finkenauer, Zakir Durumeric, Jason Kitcat, Harri Hursti,
+  Margaret MacAlpine, and J.~Alex Halderman.
+\newblock Security analysis of the estonian internet voting system.
+\newblock Technical report, University of Michigan, Open Rights Group, November
+  2014.
+
+\end{thebibliography}
